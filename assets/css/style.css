@@ -254,7 +254,7 @@ nav ul li a {
 
 .hero-content .list-social li i {
   color: #fff;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -883,6 +883,7 @@ blockquote {
     margin-left: 0;
     float: none;
     display: inline-block;
+    padding-right: 20px;
   }
 }
 
